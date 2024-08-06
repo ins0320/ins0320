@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?height=150&type=waving&color=&customColorList=0,2,2,5,30&fontSize=40&fontColor=black&text=Back-end&nbsp;Developement&nbsp;Instructor)
+![header](https://capsule-render.vercel.app/api?height=150&type=waving&color=&customColorList=0,2,2,5,30&fontSize=40&fontColor=black&text=Back-end&nbsp;Developer)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ins0320&layout=compact)](https://github.com/seojeon9/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ins0320)](https://github.com/ryo-ma/github-profile-trophy)
 
