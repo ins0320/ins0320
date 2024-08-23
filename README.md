@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?height=150&type=waving&color=&customColorList=0,2,2,5,30&fontSize=40&fontColor=black&text=Back-end&nbsp;Developer)
-<h2>🏃 지속적으로 성장하는 개발자 김유정 입니다. 🏃</h2>
+<div align=center> <h2>🏃 지속적으로 성장하는 개발자 김유정 입니다. 🏃</h2> </div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ins0320&layout=compact)](https://github.com/seojeon9/github-readme-stats)
